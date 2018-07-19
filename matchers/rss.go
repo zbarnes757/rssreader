@@ -4,10 +4,10 @@ import (
 	"encoding/xml"
 	"errors"
 	"fmt"
-	"goinaction/rssreader/search"
 	"log"
 	"net/http"
 	"regexp"
+	"rssreader/search"
 )
 
 type (

@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	_ "goinaction/rssreader/matchers"
-	"goinaction/rssreader/search"
+	_ "rssreader/matchers"
+	"rssreader/search"
 )
 
 func init() {
